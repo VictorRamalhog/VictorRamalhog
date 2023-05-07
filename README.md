@@ -17,5 +17,5 @@
 
 | Faço desenvolvimento em front-end utilizando algumas linguagens e sou apaixonado por programação!<br/>
 
-## Estudos
-| Atualmente estou estudando <span style="color: #262932; background-color: #F2D022; font-weight: bold; padding: 4px; letter-spacing: 1px">JavaScript</span> e <span style="color: #E7EAEB; background-color: #122E40; font-weight: bold; letter-spacing: 2px; padding: 5px">Python</span> para futuros projetos
+## </> Estudos
+| Atualmente estou estudando <span style="color: #262932; background-color: #F2D022; font-weight: bold; padding: 4px; letter-spacing: 1px">JavaScript</span> e <span style="color: #E7EAEB; background-color: #122E40; font-weight: bold; letter-spacing: 2px; padding: 5px">Python</span> para futuros projetos<br/>
