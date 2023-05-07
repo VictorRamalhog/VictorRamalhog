@@ -25,4 +25,4 @@
 <br/>
 
 ## Estudos
-<img style="width: 3%; align-image: center" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif"> | Atualmente estou estudando <span style="color: #262932; background-color: #F2D022; font-weight: bold; padding: 4px; letter-spacing: 1px">JavaScript</span> e <span style="color: #E7EAEB; background-color: #122E40; font-weight: bold; letter-spacing: 2px; padding: 5px">Python</span> para futuros projetos
+| Atualmente estou estudando <span style="color: #262932; background-color: #F2D022; font-weight: bold; padding: 4px; letter-spacing: 1px">JavaScript</span> e <span style="color: #E7EAEB; background-color: #122E40; font-weight: bold; letter-spacing: 2px; padding: 5px">Python</span> para futuros projetos
