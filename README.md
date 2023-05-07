@@ -1,18 +1,12 @@
 
-### Olá eu sou o Victor Ramalho ✋
-<br/>
+# 🏄‍♂️ Victor Ramalho
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorkau%C3%A3)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/V.Ramalhoz#8685) 
-<br/>
-<br/>
-
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRamalhog&show_icons=true&theme=transparent)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRamalhog&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRamalhog)](https://github.com/VictorRamalhog/github-readme-stats)
 <br/>
 <br/>
 
-## Tecnologias que uso no meu dia
+## 🧰 Tecnologias que uso no meu dia
 
 <div style="display: inline-block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,3 +17,8 @@
 <br/>
 
 | Faço desenvolvimento em front-end utilizando algumas linguagens e sou apaixonado por programação!
+
+<br/>
+
+## Estudos
+<img style="width: 3%; align-image: center" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif"> | Atualmente estou estudando <span style="color: #262932; background-color: #F2D022; font-weight: bold; padding: 4px; letter-spacing: 1px">JavaScript</span> e <span style="color: #E7EAEB; background-color: #122E40; font-weight: bold; letter-spacing: 2px; padding: 5px">Python</span> para futuros projetos
