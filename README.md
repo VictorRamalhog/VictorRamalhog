@@ -1,11 +1,11 @@
 
 # 🏄 Victor Ramalho
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorkau%C3%A3)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/V.Ramalhoz#8685)<br/> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorkau%C3%A3)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/V.Ramalhoz#8685)<br/>
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRamalhog&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRamalhog)](https://github.com/VictorRamalhog/github-readme-stats)<br/>
+<!-- ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRamalhog&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRamalhog)](https://github.com/VictorRamalhog/github-readme-stats)<br/> -->
 
 ## 🧰 Tecnologias que uso no meu dia
 <div style="display: inline-block">
