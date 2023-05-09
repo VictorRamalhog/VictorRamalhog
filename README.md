@@ -21,4 +21,4 @@
 | Atualmente estou estudando <span style="color: #262932; background-color: #F2D022; font-weight: bold; padding: 4px; letter-spacing: 1px">JavaScript</span> e <span style="color: #E7EAEB; background-color: #122E40; font-weight: bold; letter-spacing: 2px; padding: 5px">Python</span> para futuros projetos<br/>
 
 ## Projetos em destaque ⭐
-- Mario em pixel: mario-em-pixels-c6ck8jr73-victorramalhog.vercel.app
+- Mario em pixel: https://mario-em-pixels.vercel.app/
