@@ -20,7 +20,7 @@
 ## </> Estudos
 | Atualmente estou estudando <span style="color: #262932; background-color: #F2D022; font-weight: bold; padding: 4px; letter-spacing: 1px">JavaScript</span> e <span style="color: #E7EAEB; background-color: #122E40; font-weight: bold; letter-spacing: 2px; padding: 5px">Python</span> para futuros projetos<br/>
 
-<!-- ## Projetos em destaque ⭐
-- Mario em pixel: https://mario-em-pixels-git-main-victorramalhog.vercel.app/ -->
+## Projetos em destaque ⭐
+- Mario em pixel: mario-q5k2puntb-victorramalhog.vercel.app
 
 
